@@ -44,6 +44,6 @@ python project2_task_20193404_train.py
 
 
 
-### eference:
+### Reference:
 https://github.com/s-chung/mini-alphago  
 https://jsideas.net/AlphaZero/
